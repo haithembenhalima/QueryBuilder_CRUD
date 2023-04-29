@@ -9,6 +9,10 @@
 
 ## About 
 
-Simple example about CRUD operation using "Query builder" 
+Simple example about CRUD operations using "Query builder" 
 
+<li> Create </li>
+<li> Read </li>
+<li> Update </li>
+<li> Delete </li>
 
